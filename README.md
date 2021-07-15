@@ -1,5 +1,9 @@
 # Javascript Mini Projects
 
+유데미 강의와 함께 자바스크립트를 공부하며 만든 작업물입니다.
+DOM 스크립팅과 비동기 통신 등을 활용한 간단한 미니 프로젝트 
+
+
 ### 1. Guess My Number
 
 랜덤 번호를 맞추는 미니 게임
